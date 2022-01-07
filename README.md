@@ -1,0 +1,2 @@
+# flutter_barcode_reader
+flutter_barcode_reader
